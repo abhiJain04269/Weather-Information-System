@@ -22,7 +22,7 @@ import jakarta.servlet.http.HttpServletResponse;
 public class MyServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;
 
-    private String myApiKey = "9fdfbd0cecef8f3b26562aabf76314f0";
+    private String myApiKey = "use Api key";
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
